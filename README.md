@@ -39,5 +39,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-enzo-martins-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-martins-dev/)](https://www.linkedin.com/in/enzo-martins-dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-martins-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-enzomartinsdev5@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzomartinsdev5@gmail.com)](mailto:enzomartinsdev5@gmail.com)
