@@ -3,8 +3,8 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduando em Ciência da Computação.
 - 📚 Integrante do laboratório de pesquisa e desenvolvimento LAPES.
-- 🌱 Me aprodundando em Banco de Dados e Desenvolvimento Back-end.
-- 💡 Curioso por Data Science.
+- 🌱 Me aprodundando em Banco de Dados e Data Science.
+- 💡 Curioso por Desenvolvimento Back-end.
 
 ## Minhas Skills
 
