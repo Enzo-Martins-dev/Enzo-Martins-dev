@@ -1,11 +1,10 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 🎓 Graduando em Ciência da Computação.
 - ⚙  Estagiário no Centrão Telecom.
 - 📚 Integrante do laboratório de pesquisa e desenvolvimento LAPES.
-- 🌱 Me aprodundando em Desenvolvimento Back-end.
-- 💡 Curioso por Data Science.
+- 🌱 Me aprodundando em Data Science e Inteligência Artificial.
 
 ## Minhas Skills
 
