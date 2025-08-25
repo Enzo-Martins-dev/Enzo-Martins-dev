@@ -4,7 +4,7 @@
 - 🎓 Graduando em Ciência da Computação.
 - ⚙  Estagiário no Centrão Telecom.
 - 📚 Integrante do laboratório de pesquisa e desenvolvimento LAPES.
-- 🌱 Me aprodundando em Data Science e Inteligência Artificial.
+- 🌱 Me aprodundando em Engenharia de Dados e Inteligência Artificia.
 
 ## Minhas Skills
 
